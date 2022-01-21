@@ -1,7 +1,2 @@
-Hi, i'm Chris. Nice to meet you!
-
-I usually go online using the pseudonym ctech9.
-
-I am primarily a .NET developer, using C#, but I also have dabbled in Python, Visual Basic, C++, C, R, HTML/CSS, Node.JS, among many others.
-
-Verified Github dipshit since 2018
+![ctech9's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctech9&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ctech9&exclude_repo=first_repository&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
